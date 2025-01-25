@@ -1,8 +1,6 @@
 package inheritanceexample2;
 
-//public class inherritance2 {
 
-//}
 class Employee {
     String name;
     double salary;
