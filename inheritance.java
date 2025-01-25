@@ -1,8 +1,5 @@
 package inheritanceexample;
 
-//public class inheritance {
-
-//}
 
 class Animal {
     void eat() {
